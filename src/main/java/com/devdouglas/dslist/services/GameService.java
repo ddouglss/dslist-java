@@ -11,6 +11,8 @@ import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 
+//primeiro Cria DTO, Repository, Service e Controller
+
 @Service
 public class GameService {
 
