@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 @RestController
-@RequestMapping(value = "/game")
+@RequestMapping(value = "/games")
 public class GameController {
 
     @Autowired
