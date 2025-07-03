@@ -4,8 +4,12 @@
 ## 📋 Sobre o Projeto
 
 Desenvolvi um sistema backend para gerenciamento de jogos, aplicando boas práticas de engenharia de software com **Spring Boot**.  
-O projeto foi realizado como parte do curso da **DevSuperior**, ministrado pelo professor **Nélio Alves**.  
-🔗 [DevSuperior](https://devsuperior.com "Site da DevSuperior")
+ 
+---
+## 💻 Arquitetura do Projeto
+![arquiteturaJava](https://github.com/user-attachments/assets/d51119d0-98ee-4946-ac94-73b5e2ec0e05)
+
+acesse o link para visualizar o Sitema a cima: https://app.eraser.io/workspace/dBAQ43askZZwvqSH5Iy0?origin=share
 
 ---
 
