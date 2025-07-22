@@ -7,14 +7,27 @@ Desenvolvi um sistema backend para gerenciamento de jogos, aplicando boas práti
  
 ---
 ## 💻 Arquitetura do Projeto
-![arquiteturaJava](https://github.com/user-attachments/assets/d51119d0-98ee-4946-ac94-73b5e2ec0e05)
+<div align="center">
+  <img 
+    width="650" 
+    alt="Oneplus-Nord-2-livechat-run us-east-1 elasticbeanstalk com" 
+    src="https://github.com/user-attachments/assets/d51119d0-98ee-4946-ac94-73b5e2ec0e05" 
+  >
+</div>
 
 acesse o link para visualizar o Sitema a cima: https://app.eraser.io/workspace/dBAQ43askZZwvqSH5Iy0?origin=share
 
 ---
 
 ## 🧠 Modelo Conceitual
-![dslist-model](https://github.com/user-attachments/assets/768187db-b474-43a5-aeb1-8ab60b58abe6)
+
+<div align="center">
+  <img 
+    width="650" 
+    alt="Oneplus-Nord-2-livechat-run us-east-1 elasticbeanstalk com" 
+    src="https://github.com/user-attachments/assets/768187db-b474-43a5-aeb1-8ab60b58abe6" 
+  />
+</div>
 
 ---
 
