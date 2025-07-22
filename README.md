@@ -13,18 +13,8 @@ acesse o link para visualizar o Sitema a cima: https://app.eraser.io/workspace/d
 
 ---
 
-## 📫 Endpoints no Postman
-![dslistJava](https://github.com/user-attachments/assets/b373b07c-3a44-4b45-867a-4ad963867363)
-
----
-
 ## 🧠 Modelo Conceitual
 ![dslist-model](https://github.com/user-attachments/assets/768187db-b474-43a5-aeb1-8ab60b58abe6)
-
----
-
-## 📁 Organização do Projeto
-![DslistPastas](https://github.com/user-attachments/assets/ff6ea6d0-9c51-4811-9506-10430621d715)
 
 ---
 
